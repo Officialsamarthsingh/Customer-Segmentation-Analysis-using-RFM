@@ -117,9 +117,9 @@ Built an interactive Power BI dashboard to visualize:
 
 customer-segmentation-project/
 
-├── data/
-
 ├── notebook/
+
+├── data/
 
 ├── images/
 
